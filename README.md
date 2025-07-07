@@ -1,4 +1,4 @@
-# RolePerfect – AI-Powered Job Matchmaker 
+**RolePerfect – AI-Powered Job Matchmaker**
 [![HuggingFace Spaces](https://img.shields.io/badge/Live%20on-Hugging%20Face-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/swathikalburgi/job-recommender-app)
 
 RolePerfect is a smart, intuitive app that helps users discover the top 10 job roles that match their profile — either by uploading a resume or selecting a job title.
@@ -7,13 +7,13 @@ Powered by NLP and cosine similarity, RolePerfect analyzes job roles and resumes
 
 ---
 
-##Live Demo
+Live Demo
 
 👉 Try it here: [https://huggingface.co/spaces/swathikalburgi/job-recommender-app](https://huggingface.co/spaces/swathikalburgi/job-recommender-app)
 
 ---
 
-##Dataset Source
+Dataset Source
 
 This project uses a cleaned version of the [AI Salary Dataset by Ruchi Bhatia](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) from Kaggle.
 
@@ -21,7 +21,7 @@ We downsampled and reformatted the dataset to improve responsiveness for app dep
 
 ---
 
-##How It Works
+How It Works
 
 1. Upload your PDF resume
 2. Or select a job title from the dropdown
@@ -34,7 +34,7 @@ We downsampled and reformatted the dataset to improve responsiveness for app dep
 
 ---
 
-##Built With
+Built With
 
 - [Gradio](https://gradio.app/) – UI
 - [Python](https://www.python.org/)
